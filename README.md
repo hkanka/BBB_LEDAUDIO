@@ -1,5 +1,5 @@
 # BBB_LEDAUDIO
-
+Audio analyzer with BeagleBone Black
 <br>
 <img height="480" width="900" src="https://github.com/joek85/BBB_LEDAUDIO/blob/master/Images/Img1.jpg?raw=true" />
 <br>
