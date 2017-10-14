@@ -34,7 +34,6 @@ void *display_thread(void *data){
         pthread_mutex_unlock(&threadstruct1->mutex);
 
     }
-
     pthread_exit(NULL);
 }
 int main(int argc, char *argv[]) {
